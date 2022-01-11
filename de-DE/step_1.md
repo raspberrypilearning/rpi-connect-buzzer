@@ -1,11 +1,11 @@
-There are two main types of buzzer: **active** and **passive**.
+Es gibt zwei Haupttypen von Summern: **aktiv** und **passiv**.
 
-A passive buzzer emits a tone when a voltage is applied across it. It also requires a specific signal to generate a variety of tones. The active buzzers are a lot simpler to use, so these are covered here.
+Ein passiver Summer gibt einen Ton aus, wenn eine Spannung daran angelegt wird. Er erfordert auch ein bestimmtes Signal, um unterschiedliche Töne zu erzeugen. Die aktiven Summer sind viel einfacher zu verwenden, daher werden diese hier behandelt.
 
-### Connecting a buzzer
+### Einen Summer anschließen
 
-An active buzzer can be connected just like an LED, but as they are a little more robust, you won’t be needing a resistor to protect them.
+Aktive Summer können wie eine LED angeschlossen werden, aber da sie etwas robuster sind, benötigen Sie keinen Widerstand, um sie zu schützen.
 
-Set up the circuit as shown below:
+Baue die Schaltung wie unten gezeigt auf:
 
-![Buzzer Circuit](images/buzzer-circuit.png)
+![Summerschaltung](images/buzzer-circuit.png)
