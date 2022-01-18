@@ -1,11 +1,11 @@
-There are two main types of buzzer: **active** and **passive**.
+Hay dos tipos principales de bocinas o zumbadores: **activo** y **pasivo**.
 
-A passive buzzer emits a tone when a voltage is applied across it. It also requires a specific signal to generate a variety of tones. The active buzzers are a lot simpler to use, so these are covered here.
+Un zumbador pasivo emite un tono cuando se le aplica voltaje. También requiere una señal específica para generar una variedad de tonos. Las bocinas activas son mucho más fáciles de usar, por lo que las trataremos aquí.
 
-### Connecting a buzzer
+### Conectando una bocina
 
-An active buzzer can be connected just like an LED, but as they are a little more robust, you won’t be needing a resistor to protect them.
+Se puede conectar un zumbador activo como un LED, pero como son un poco más robustos, no necesitarán una resistencia para protegerlos.
 
-Set up the circuit as shown below:
+Configura el circuito como se muestra a continuación:
 
-![Buzzer Circuit](images/buzzer-circuit.png)
+![Circuito de zumbador](images/buzzer-circuit.png)
