@@ -1,11 +1,11 @@
-There are two main types of buzzer: **active** and **passive**.
+蜂鸣器有两种主要类型： **有源（自激式）** 和 **无源（外激式）**。
 
-A passive buzzer emits a tone when a voltage is applied across it. It also requires a specific signal to generate a variety of tones. The active buzzers are a lot simpler to use, so these are covered here.
+给无源蜂鸣器输入端施加电压时，蜂鸣器就会发出声音。 无源蜂鸣器会依据特定的信号来产生不同的音调。 有源蜂鸣器使用起来要简单得多，因此这里将介绍有源蜂鸣器。
 
-### Connecting a buzzer
+### 连接蜂鸣器
 
-An active buzzer can be connected just like an LED, but as they are a little more robust, you won’t be needing a resistor to protect them.
+有源蜂鸣器可以像 LED 一样连接使用。由于它们更加耐用，（连接时）不需要保护电阻。
 
-Set up the circuit as shown below:
+按照下图设置电路：
 
-![Buzzer Circuit](images/buzzer-circuit.png)
+![蜂鸣器电路](images/buzzer-circuit.png)
