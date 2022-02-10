@@ -1,5 +1,5 @@
 ---
-title: Conectando una bocina a la Raspberry Pi
+title: Conectando un altavoz a la Raspberry Pi
 hero_image: images/banner.png
 description: descripción de rpi-connect-buzzer
 theme: red #possible values: blue, green, navy, orange, red, turquoise, violet, yellow
@@ -13,4 +13,4 @@ technologies:
 site_areas:
 steps:
   - 
-    title: Conectando una bocina a la Raspberry Pi
+    title: Conectando un altavoz a la Raspberry Pi
