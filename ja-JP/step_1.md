@@ -1,11 +1,11 @@
-There are two main types of buzzer: **active** and **passive**.
+ブザーは主に**アクティブ**と**パッシブ**の2種類があります。
 
-A passive buzzer emits a tone when a voltage is applied across it. It also requires a specific signal to generate a variety of tones. The active buzzers are a lot simpler to use, so these are covered here.
+パッシブブザーは、電圧が印加されるとトーンを発します。 また、さまざまなトーンを生成するには特定の信号が必要になります。 アクティブブザーの場合は非常に簡単に扱えるので、こちらについて説明します。
 
-### Connecting a buzzer
+### ブザーを接続する
 
-An active buzzer can be connected just like an LED, but as they are a little more robust, you won’t be needing a resistor to protect them.
+アクティブブザーは LED と同じように接続できます。ただし、 LED より少し頑丈なので、ブザーを保護するための抵抗は不要です。
 
-Set up the circuit as shown below:
+以下に示すとおりに回路を作成します:
 
-![Buzzer Circuit](images/buzzer-circuit.png)
+![ブザーの回路](images/buzzer-circuit.png)
